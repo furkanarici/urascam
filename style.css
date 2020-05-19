@@ -1,0 +1,73 @@
+body {
+  margin: auto 0;
+  font-family: Montserrat;
+  font-size: 14px;
+  background-color: #f6f5f3;
+}
+
+.logo {
+  width: 125px;
+}
+.header {
+  background-image: url("./img/header.jpg");
+  height: 50vh;
+  background-size: cover;
+}
+
+.resim {
+  object-fit: cover;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.navbar-expand-lg {
+  transition: 500ms ease;
+  background: transparent;
+  color: #225879;
+}
+
+a {
+  color: #225879;
+}
+.navbar-expand-lg.scrolled {
+  background: white;
+}
+
+.mavi {
+  background-color: #225879;
+  color: #f6f5f3;
+}
+
+.turuncu {
+  background-color: #d95760;
+  color: #f6f5f3;
+}
+
+.mor {
+  background-color: #221e2d;
+  color: #f6f5f3;
+}
+
+.koyuTuruncu {
+  background-color: #a6484f;
+  color: #f6f5f3;
+}
+
+.beyaz {
+  background-color: #f6f5f3;
+  color: #225879;
+}
+
+/* mavi
+rgb(34, 87, 121)
+turuncu
+rgb(217, 87, 95) */
+
+/* 
+F6F5F3
+D95760
+225879
+A6484F
+221E2D */
