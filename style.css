@@ -17,6 +17,9 @@ body {
 .resim {
   object-fit: cover;
 }
+.cover {
+  object-fit: cover;
+}
 
 .capitalize {
   text-transform: capitalize;
